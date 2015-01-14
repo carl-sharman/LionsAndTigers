@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LionsAndTigers/ViewController.swift"
+            timestampString = "442934383.94447"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LionsAndTigers.ViewController.ageLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImageView&gt;"
+                  moduleName = "LionsAndTigers"
+                  urlString = "file:///Users/carlsharmanwork/Documents/LionsAndTigers/LionsAndTigers/ViewController.swift"
+                  timestampString = "442934249.051705"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LionsAndTigers.ViewController.ageLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImageView&gt;"
+                  moduleName = "LionsAndTigers"
+                  urlString = "file:///Users/carlsharmanwork/Documents/LionsAndTigers/LionsAndTigers/ViewController.swift"
+                  timestampString = "442934249.052479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LionsAndTigers.ViewController.ageLabel.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImageView&gt;"
+                  moduleName = "LionsAndTigers"
+                  urlString = "file:///Users/carlsharmanwork/Documents/LionsAndTigers/LionsAndTigers/ViewController.swift"
+                  timestampString = "442934249.052607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LionsAndTigers.ViewController.init (LionsAndTigers.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; LionsAndTigers.ViewController"
+                  moduleName = "LionsAndTigers"
+                  urlString = "file:///Users/carlsharmanwork/Documents/LionsAndTigers/LionsAndTigers/ViewController.swift"
+                  timestampString = "442934249.052739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "209">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LionsAndTigers.ViewController.init (LionsAndTigers.ViewController.Type)() -&gt; LionsAndTigers.ViewController"
+                  moduleName = "LionsAndTigers"
+                  urlString = "file:///Users/carlsharmanwork/Documents/LionsAndTigers/LionsAndTigers/ViewController.swift"
+                  timestampString = "442934249.052841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LionsAndTigers.ViewController.init (LionsAndTigers.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; LionsAndTigers.ViewController"
+                  moduleName = "LionsAndTigers"
+                  urlString = "file:///Users/carlsharmanwork/Documents/LionsAndTigers/LionsAndTigers/ViewController.swift"
+                  timestampString = "442934249.052942"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
